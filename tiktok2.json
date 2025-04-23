@@ -112,6 +112,17 @@
             "linkMusic": "Dangkt - TikTok",
             "search": "tiktok",
             "image": "https://drive.google.com/uc?id=1ebYxJOFJ_5rz8Q3kODGBySQWExgNAwh_"
+        },
+        {
+            "id": "20",
+            "title": "New Title",
+            "description": "New description for the new entry.",
+            "url": "https://drive.google.com/uc?id=1fw7y2oH4uUWc5O10keOV2z4R4gJAVAVc",
+            "publishedAt": "2025-04-07",
+            "channelTitle": "New Channel",
+            "linkMusic": "New Music Link",
+            "search": "new_search",
+            "image": "https://drive.google.com/uc?id=1F_8rzT07XapqXboZOTWHQBQJqBH-MIST"
         }
     ]
 }
